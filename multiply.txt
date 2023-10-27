@@ -1,2 +1,5 @@
 multiply
+add
+subtract
+divide
 
